@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 ## Usage
 
-1. Training:
+#### 1. Training:
 - Download and preprocess the MNIST dataset (if not already included).
 - Run the training script to train the model:
 
@@ -40,14 +40,14 @@ pip install -r requirements.txt
 python train.py
 ```
 
-2. Test:
+#### 2. Test:
 - Test the model's performance using the evaluation script:
 
 ```javascript
 python test.py
 ```
 
-3. Prediction:
+#### 3. Prediction:
 - Use the trained model for handwritten digit recognition:
 
 ```javascript
