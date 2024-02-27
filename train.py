@@ -15,7 +15,7 @@ model.add(tf.keras.layers.Dense(10, activation = 'softmax'))
 
 model.compile(optimizer = 'adam', loss = 'sparse_categorical_crossentropy', metrics = ['accuracy'])
 
-model.fit(x_train, y_train, epochs = 1000)
+model.fit(x_train, y_train, epochs = 1)
 
 
 model.save('handwritten_digit_recognition.model')
