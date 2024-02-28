@@ -20,8 +20,8 @@ This project aims to develop a deep learning model for recognizing handwritten d
 #### 1. Clone the repository:
  
 ```bash
-git clone https://github.com/kacrhub/Handwritten_Digit_Recognition.git
-cd Handwritten_Digit_Recognition
+git clone https://github.com/kacrhub/handwritten_digit_recognition.git
+cd handwritten_digit_recognition
 ```
 
 #### 2. Install dependencies:
