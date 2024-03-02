@@ -20,8 +20,8 @@ This project aims to develop a deep learning model for recognizing handwritten d
 #### 1. Clone the repository:
  
 ```bash
-git clone https://github.com/kacrhub/handwritten_digit_recognition.git
-cd handwritten_digit_recognition
+git clone https://github.com/kacrhub/handwritten-digit-recognition.git
+cd handwritten-digit-recognition
 ```
 
 #### 2. Install dependencies:
@@ -57,20 +57,20 @@ python main.py
 
 ## Screenshots
 
-![App Screenshot](https://github.com/kacrhub/Handwritten_Digit_Recognition/blob/main/Screenshots/Figure_1.png?raw=true)
+![App Screenshot](https://github.com/kacrhub/handwritten-digit-recognition/blob/main/Screenshots/Figure_1.png?raw=true)
 
-![App Screenshot](https://github.com/kacrhub/Handwritten_Digit_Recognition/blob/main/Screenshots/out_1.png?raw=true)
-
-
-
-![App Screenshot](https://github.com/kacrhub/Handwritten_Digit_Recognition/blob/main/Screenshots/Figure_2.png?raw=true)
-
-![App Screenshot](https://github.com/kacrhub/Handwritten_Digit_Recognition/blob/main/Screenshots/out_2.png?raw=true)
+![App Screenshot](https://github.com/kacrhub/handwritten-digit-recognition/blob/main/Screenshots/out_1.png?raw=true)
 
 
 
-![App Screenshot](https://github.com/kacrhub/Handwritten_Digit_Recognition/blob/main/Screenshots/Figure_3.png?raw=true)
+![App Screenshot](https://github.com/kacrhub/handwritten-digit-recognition/blob/main/Screenshots/Figure_2.png?raw=true)
 
-![App Screenshot](https://github.com/kacrhub/Handwritten_Digit_Recognition/blob/main/Screenshots/out_3.png?raw=true)
+![App Screenshot](https://github.com/kacrhub/handwritten-digit-recognition/blob/main/Screenshots/out_2.png?raw=true)
+
+
+
+![App Screenshot](https://github.com/kacrhub/handwritten-digit-recognition/blob/main/Screenshots/Figure_3.png?raw=true)
+
+![App Screenshot](https://github.com/kacrhub/handwritten-digit-recognition/blob/main/Screenshots/out_3.png?raw=true)
 
 
